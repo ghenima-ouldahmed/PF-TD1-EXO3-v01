@@ -1,5 +1,3 @@
-package td1.exo3.Generique;
-
 import java.util.Set;
 
 public class Feuille<T extends Sommable<T>> implements Arbre<T> {
